@@ -1,0 +1,4 @@
+.cardbuttons{
+    display: flex;
+    justify-content: space-evenly;
+}
